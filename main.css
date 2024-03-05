@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.post {
+    margin-bottom: 30px;
+}
+
+.container h1{
+padding: 30px;
+color: rgb(12, 12, 231);
+}
+
+.row {
+    margin-bottom: 30px;
+    justify-content: space-between;
+    
+}
+
+
+.col {
+    padding:30px;
+}
+
+
