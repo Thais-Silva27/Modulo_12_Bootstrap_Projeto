@@ -8,7 +8,7 @@ Esse projeto consiste em:
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-Nesse modulo aprendi:
+O que foi estudado neste modulo:
 
 * Conceitos fundamentais do Bootstrap; 
 * Implementação do Bootstrap em um projeto web; 
